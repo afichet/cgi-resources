@@ -43,7 +43,7 @@ Materials
 - Photex Photometric Image Database: https://www.macs.hw.ac.uk/texturelab/resources/databases/
 - Pixar 128: https://renderman.pixar.com/pixar-one-twenty-eight
 - Pixar 130: https://renderman.pixar.com/pixar-one-thirty
-
+- Poly Haven: https://polyhaven.com/textures
 
 ### Bispectral measurements
 
@@ -55,8 +55,31 @@ Materials
 Geometry / Scene assets
 -----------------------
 
+### 3D models
 - McGuire Computer Graphics Archive: https://casual-effects.com/data/index.html
 - Disney clouds: https://disneyanimation.com/resources/clouds/
 - Disney Moana island: https://www.disneyanimation.com/resources/moana-island-scene/
+- Poly Haven: https://polyhaven.com/models
+
+
+### 3D scans
+- The Stanford 3D Scanning Repository: https://graphics.stanford.edu/data/3Dscanrep/
 - 3D scans: https://threedscans.com/
 - 3D Machine learning resources and links: https://github.com/timzhang642/3D-Machine-Learning#datasets
+- Museum der Universität Tübingen artifacts: https://www.myminifactory.com/users/unimuseumt
+
+
+Images
+------
+
+### Image formats
+
+- Sample OpenEXR images: https://github.com/AcademySoftwareFoundation/openexr-images
+
+
+### Environment maps
+
+- P.Debevec Light probes:
+  - https://www.pauldebevec.com/Probes/
+  - https://vgl.ict.usc.edu/Data/HighResProbes/
+- Poly Haven: https://polyhaven.com/hdris
