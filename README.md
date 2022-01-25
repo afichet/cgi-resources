@@ -12,7 +12,7 @@ Spectral data
 ### General
 
 - CIE Illuminants and CMFs: https://law.resource.org/pub/us/cfr/ibr/003/cie.15.2004.tables.xls
-- Large CMF database from Colour & Vision Research Laboratory: http://www.cvrl.org/
+- Large CMF database from the Colour & Vision Research Laboratory: http://www.cvrl.org/
 
 
 ### Misc.
