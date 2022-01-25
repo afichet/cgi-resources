@@ -25,6 +25,10 @@ Color science / Spectral data
   - Full resolution: ftp://ftp.cis.rit.edu/mcsl/MetaCow.tar.gz
 
 
+### Hyperspectral images
+- BGU ICVL Hyperspectral Database: http://icvl.cs.bgu.ac.il/hyperspectral/
+
+
 Materials
 ---------
 
@@ -81,7 +85,7 @@ Images
 ### Image formats
 
 - Sample OpenEXR images: https://github.com/AcademySoftwareFoundation/openexr-images
-
+- ENVI (BGU ICVL Hyperspectral Database): http://icvl.cs.bgu.ac.il/hyperspectral/
 
 ### Environment maps
 
