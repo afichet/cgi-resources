@@ -6,8 +6,8 @@ This document references a set of databases for computer graphics. If you use an
 You're welcome to suggest any additional items in this list by creating an issue or a merge requests.
 
 
-Color science / Spectral data
-------------------------------
+Color science
+-------------
 
 ### General
 
@@ -61,8 +61,8 @@ Materials
 - Index of refraction database: https://refractiveindex.info/
 
 
-Geometry / Scene assets
------------------------
+Geometry
+--------
 
 ### 3D models
 
