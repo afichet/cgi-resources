@@ -1,9 +1,9 @@
-CGI usefull databases and resources
-===================================
+CGI databases and resources
+===========================
 
-This document references a set of usefull databases for computer graphics. If you use any of these database, cite the authors accordingly.
+This document references a set of databases for computer graphics. If you use any of these database, cite the authors accordingly.
 
-You're welcome to suggest any additional item in this list by creating an issue or a merge requests.
+You're welcome to suggest any additional items in this list by creating an issue or a merge requests.
 
 
 Color science / Spectral data
