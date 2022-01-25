@@ -3,7 +3,7 @@ CGI usefull databases and resources
 
 This document references a set of usefull databases for computer graphics. If you use any of these database, cite the authors accordingly.
 
-You're welcome to suggest any additional item in this list threw issues or merge requests.
+You're welcome to suggest any additional item in this list by creating an issue or a merge requests.
 
 
 Spectral data
@@ -18,7 +18,7 @@ Spectral data
 ### Misc.
 
 - Spectral Macbeth colourchecker: https://www.babelcolor.com/colorchecker.htm
-- Metacow RIT
+- Metamerism: RIT Metacow
   - Source: https://www.rit.edu/science/munsell-color-science-lab-educational-resources
   - Small TIFFs: http://www.rit-mcsl.org/MetaCow/SmTiffs.zip
   - Full resolution: ftp://ftp.cis.rit.edu/mcsl/MetaCow.tar.gz
