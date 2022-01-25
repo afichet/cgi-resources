@@ -51,9 +51,11 @@ Materials
   - Database: www.rit-mcsl.org/StudentResearch/sgonzalez/Labsphere.zip
 
 
-Scene assets
-------------
+Geometry / Scene assets
+-----------------------
 
 - McGuire Computer Graphics Archive: https://casual-effects.com/data/index.html
 - Disney clouds: https://disneyanimation.com/resources/clouds/
 - Disney Moana island: https://www.disneyanimation.com/resources/moana-island-scene/
+- 3D scans: https://threedscans.com/
+- 3D Machine learning resources and links: https://github.com/timzhang642/3D-Machine-Learning#datasets
