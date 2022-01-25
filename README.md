@@ -43,6 +43,13 @@ Materials
 - Pixar 130: https://renderman.pixar.com/pixar-one-thirty
 
 
+### Bispectral measurements
+
+- RIT Fluorescent Database
+  - Webpage: https://web.archive.org/web/20191018071813/https://www.rit.edu/cos/colorscience/re_sgonzalez.php
+  - Database: www.rit-mcsl.org/StudentResearch/sgonzalez/Labsphere.zip
+
+
 Scene assets
 ------------
 
