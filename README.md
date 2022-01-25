@@ -6,13 +6,14 @@ This document references a set of usefull databases for computer graphics. If yo
 You're welcome to suggest any additional item in this list by creating an issue or a merge requests.
 
 
-Spectral data
--------------
+Color science / Spectral data
+------------------------------
 
 ### General
 
 - CIE Illuminants and CMFs: https://law.resource.org/pub/us/cfr/ibr/003/cie.15.2004.tables.xls
 - Large CMF database from the Colour & Vision Research Laboratory: http://www.cvrl.org/
+- Color conversion math and matrices: http://www.brucelindbloom.com/
 
 
 ### Misc.
