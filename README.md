@@ -23,7 +23,7 @@ Color science & Spectral data
 
 ### Reflectances
 
-See the section "Materials/Spectral reflectance".
+*See section ["Materials/Spectral reflectance"](#spectral-reflectance).*
 
 
 ### Hyperspectral images
@@ -74,7 +74,7 @@ Materials
   - Daylight spectra: http://cs.joensuu.fi/pub/color/spectra/daylight/
 
 
-(see also Dupuy and Jakob Material Database in BRDF / BTF section)
+*See also Dupuy and Jakob Material Database in [BRDF / BTF section](#brdf--btf)*
 
 
 ### Bispectral measurements
