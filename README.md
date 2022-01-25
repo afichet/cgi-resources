@@ -18,7 +18,7 @@ Color science & Spectral data
 
 - CIE Illuminants and CMFs: https://law.resource.org/pub/us/cfr/ibr/003/cie.15.2004.tables.xls
 - Daylight measured spectra: 
-  - Webpage (broken database links): http://cs.joensuu.fi/pages/mhk/ColorDB/color/database/download.htm
+  - Webpage (broken database links): http://cs.joensuu.fi/pages/mhk/ColorDB/color/database/database.htm
   - Database: http://cs.joensuu.fi/pub/color/spectra/daylight/
 
 ### Reflectances
@@ -61,7 +61,7 @@ Materials
 ### Spectral reflectance
 
 - Spectral Macbeth colourchecker: https://www.babelcolor.com/colorchecker.htm
-- Repository of numerous spectral measurements (links are broken on the HTML webpage): http://cs.joensuu.fi/pages/mhk/ColorDB/color/database/download.htm
+- Repository of numerous spectral measurements (links are broken on the HTML webpage): http://cs.joensuu.fi/pages/mhk/ColorDB/color/database/database.htm
   - Munsell colors matt (AOTF measured): http://cs.joensuu.fi/pub/color/spectra/maotf/
   - Munsell colors matt (spectrofotometer measured): http://cs.joensuu.fi/pub/color/spectra/mspec/
   - Munsell colors glossy (spectrofotometer measured): http://cs.joensuu.fi/pub/color/spectra/mglossy/
