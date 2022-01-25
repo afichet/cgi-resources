@@ -56,6 +56,7 @@ Geometry / Scene assets
 -----------------------
 
 ### 3D models
+
 - McGuire Computer Graphics Archive: https://casual-effects.com/data/index.html
 - Disney clouds: https://disneyanimation.com/resources/clouds/
 - Disney Moana island: https://www.disneyanimation.com/resources/moana-island-scene/
@@ -63,10 +64,15 @@ Geometry / Scene assets
 
 
 ### 3D scans
+
 - The Stanford 3D Scanning Repository: https://graphics.stanford.edu/data/3Dscanrep/
 - 3D scans: https://threedscans.com/
-- 3D Machine learning resources and links: https://github.com/timzhang642/3D-Machine-Learning#datasets
 - Museum der Universität Tübingen artifacts: https://www.myminifactory.com/users/unimuseumt
+
+
+### Misc.
+
+- 3D Machine learning resources and links: https://github.com/timzhang642/3D-Machine-Learning#datasets
 
 
 Images
