@@ -16,6 +16,10 @@ Color science / Spectral data
 - Color conversion math and matrices: http://www.brucelindbloom.com/
 
 
+### Hyperspectral images
+- BGU ICVL Hyperspectral Database: http://icvl.cs.bgu.ac.il/hyperspectral/
+
+
 ### Misc.
 
 - Spectral Macbeth colourchecker: https://www.babelcolor.com/colorchecker.htm
@@ -23,10 +27,6 @@ Color science / Spectral data
   - Source: https://www.rit.edu/science/munsell-color-science-lab-educational-resources
   - Small TIFFs: http://www.rit-mcsl.org/MetaCow/SmTiffs.zip
   - Full resolution: ftp://ftp.cis.rit.edu/mcsl/MetaCow.tar.gz
-
-
-### Hyperspectral images
-- BGU ICVL Hyperspectral Database: http://icvl.cs.bgu.ac.il/hyperspectral/
 
 
 Materials
