@@ -6,14 +6,24 @@ This document references a set of databases for computer graphics. If you use an
 You're welcome to suggest any additional items in this list by creating an issue or a merge requests.
 
 
-Color science
--------------
+Color science & Spectral data
+-----------------------------
 
-### General
+### Color Matching Functions and Conversions
 
-- CIE Illuminants and CMFs: https://law.resource.org/pub/us/cfr/ibr/003/cie.15.2004.tables.xls
 - Large CMF database from the Colour & Vision Research Laboratory: http://www.cvrl.org/
 - Color conversion math and matrices: http://www.brucelindbloom.com/
+
+### Illuminants
+
+- CIE Illuminants and CMFs: https://law.resource.org/pub/us/cfr/ibr/003/cie.15.2004.tables.xls
+- Daylight measured spectra: 
+  - Webpage (broken database links): http://cs.joensuu.fi/pages/mhk/ColorDB/color/database/download.htm
+  - Database: http://cs.joensuu.fi/pub/color/spectra/daylight/
+
+### Reflectances
+
+See the section "Materials/Spectral reflectance".
 
 
 ### Hyperspectral images
@@ -22,7 +32,6 @@ Color science
 
 ### Misc.
 
-- Spectral Macbeth colourchecker: https://www.babelcolor.com/colorchecker.htm
 - Metamerism: RIT Metacow
   - Source: https://www.rit.edu/science/munsell-color-science-lab-educational-resources
   - Small TIFFs: http://www.rit-mcsl.org/MetaCow/SmTiffs.zip
@@ -48,6 +57,25 @@ Materials
 - Pixar 128: https://renderman.pixar.com/pixar-one-twenty-eight
 - Pixar 130: https://renderman.pixar.com/pixar-one-thirty
 - Poly Haven: https://polyhaven.com/textures
+
+### Spectral reflectance
+
+- Spectral Macbeth colourchecker: https://www.babelcolor.com/colorchecker.htm
+- Repository of numerous spectral measurements (links are broken on the HTML webpage): http://cs.joensuu.fi/pages/mhk/ColorDB/color/database/download.htm
+  - Munsell colors matt (AOTF measured): http://cs.joensuu.fi/pub/color/spectra/maotf/
+  - Munsell colors matt (spectrofotometer measured): http://cs.joensuu.fi/pub/color/spectra/mspec/
+  - Munsell colors glossy (spectrofotometer measured): http://cs.joensuu.fi/pub/color/spectra/mglossy/
+  - Natural colors: http://cs.joensuu.fi/pub/color/spectra/natural/
+  - Forest colors: http://cs.joensuu.fi/pub/color/spectra/forest/
+  - Paper spectra: http://cs.joensuu.fi/pub/color/spectra/paper/
+  - Candy colors: http://cs.joensuu.fi/pub/color/spectra/candy/
+  - Lumber spectra: http://cs.joensuu.fi/pub/color/spectra/lumber/
+  - AGFA IT8.7/2 set: http://cs.joensuu.fi/pub/color/spectra/agfait872/
+  - Daylight spectra: http://cs.joensuu.fi/pub/color/spectra/daylight/
+
+
+(see also Dupuy and Jakob Material Database in BRDF / BTF section)
+
 
 ### Bispectral measurements
 
