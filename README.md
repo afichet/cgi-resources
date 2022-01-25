@@ -28,7 +28,7 @@ See the section "Materials/Spectral reflectance".
 
 ### Hyperspectral images
 - BGU ICVL Hyperspectral Database: http://icvl.cs.bgu.ac.il/hyperspectral/
-
+- The Cornell Box: https://www.graphics.cornell.edu/online/box/box_tiff.zip
 
 ### Misc.
 
@@ -127,3 +127,8 @@ Images
   - https://www.pauldebevec.com/Probes/
   - https://vgl.ict.usc.edu/Data/HighResProbes/
 - Poly Haven: https://polyhaven.com/hdris
+
+Misc.
+-----
+
+- The Cornell Box website: http://www.graphics.cornell.edu/online/box/data.html
