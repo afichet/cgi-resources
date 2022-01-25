@@ -56,6 +56,11 @@ Materials
   - Database: www.rit-mcsl.org/StudentResearch/sgonzalez/Labsphere.zip
 
 
+### Misc.
+
+- Index of refraction database: https://refractiveindex.info/
+
+
 Geometry / Scene assets
 -----------------------
 
