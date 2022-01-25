@@ -31,6 +31,7 @@ Materials
 ### BRDF / BTF
 
 - MERL BRDF: https://www.merl.com/brdf/
+- Dupuy and Jakob Material Database: https://rgl.epfl.ch/materials
 - (On request) UTIA BRDF / BTF: http://btf.utia.cas.cz/
 - BTFDBB: BTF Database Bonn and Measurement Lab: https://cg.cs.uni-bonn.de/btfdb/
 - (On request) Volumetric Surface Texture Database: http://vision.ucsd.edu/kriegman-grp/research/vst/index.html
