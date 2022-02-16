@@ -117,9 +117,13 @@ Images
 
 ### Image formats
 
+#### RGB Images
 - OpenEXR images: https://github.com/AcademySoftwareFoundation/openexr-images
+
+#### Spectral Images
 - Spectral EXR: https://jcgt.org/published/0010/03/01/sample-images.zip
 - ENVI (BGU ICVL Hyperspectral Database): http://icvl.cs.bgu.ac.il/hyperspectral/
+- CAVE Multispectral Image Database: https://www.cs.columbia.edu/CAVE/databases/multispectral/
 
 ### Environment maps
 
