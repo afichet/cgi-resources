@@ -105,7 +105,7 @@ Geometry
 - The Stanford 3D Scanning Repository: https://graphics.stanford.edu/data/3Dscanrep/
 - 3D scans: https://threedscans.com/
 - Museum der Universität Tübingen artifacts: https://www.myminifactory.com/users/unimuseumt
-
+- Intel Sponza Scene & addons: https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html
 
 ### Misc.
 
