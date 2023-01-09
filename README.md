@@ -23,12 +23,11 @@ Color science & Spectral data
 
 ### Reflectances
 
-*See section ["Materials/Spectral reflectance"](#spectral-reflectance).*
-
+*See section ["Materials/Spectral Reflectance"](#spectral-reflectance).*
 
 ### Hyperspectral images
-- BGU ICVL Hyperspectral Database: http://icvl.cs.bgu.ac.il/hyperspectral/
-- The Cornell Box: https://www.graphics.cornell.edu/online/box/box_tiff.zip
+
+*See section ["Images/Spectral Images"](#spectral-images).*
 
 ### Misc.
 
@@ -58,7 +57,7 @@ Materials
 - Pixar 130: https://renderman.pixar.com/pixar-one-thirty
 - Poly Haven: https://polyhaven.com/textures
 
-### Spectral reflectance
+### Spectral Reflectance
 
 - Spectral Macbeth colourchecker: https://www.babelcolor.com/colorchecker.htm
 - Repository of numerous spectral measurements (links are broken on the HTML webpage): http://cs.joensuu.fi/pages/mhk/ColorDB/color/database/database.htm
@@ -77,7 +76,7 @@ Materials
 *See also Dupuy and Jakob Material Database in [BRDF / BTF section](#brdf--btf)*
 
 
-### Bispectral measurements
+### Bispectral Measurements
 
 - RIT Fluorescent Database
   - Webpage: https://web.archive.org/web/20191018071813/https://www.rit.edu/cos/colorscience/re_sgonzalez.php
@@ -92,7 +91,7 @@ Materials
 Geometry
 --------
 
-### 3D models
+### 3D Models
 
 - McGuire Computer Graphics Archive: https://casual-effects.com/data/index.html
 - Disney clouds: https://disneyanimation.com/resources/clouds/
@@ -100,7 +99,7 @@ Geometry
 - Poly Haven: https://polyhaven.com/models
 - Intel Sponza Scene & addons: https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html
 
-### 3D scans
+### 3D Scans
 
 - The Stanford 3D Scanning Repository: https://graphics.stanford.edu/data/3Dscanrep/
 - 3D scans: https://threedscans.com/
@@ -120,11 +119,13 @@ Images
 - OpenEXR images: https://github.com/AcademySoftwareFoundation/openexr-images
 
 #### Spectral Images
+- BGU ICVL Hyperspectral Database: http://icvl.cs.bgu.ac.il/hyperspectral/
+- The Cornell Box: https://www.graphics.cornell.edu/online/box/box_tiff.zip
 - Spectral EXR: https://jcgt.org/published/0010/03/01/sample-images.zip
 - ENVI (BGU ICVL Hyperspectral Database): http://icvl.cs.bgu.ac.il/hyperspectral/
 - CAVE Multispectral Image Database: https://www.cs.columbia.edu/CAVE/databases/multispectral/
 
-### Environment maps
+### Environment Maps
 
 - P.Debevec Light probes:
   - https://www.pauldebevec.com/Probes/
