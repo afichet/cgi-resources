@@ -20,6 +20,7 @@ Color science & Spectral data
 - Daylight measured spectra: 
   - Webpage (broken database links): http://cs.joensuu.fi/pages/mhk/ColorDB/color/database/database.htm
   - Database: http://cs.joensuu.fi/pub/color/spectra/daylight/
+- LSPDD: Lamp Spectral Power Distribution Database: https://lspdd.org/
 
 ### Reflectances
 
